@@ -23,6 +23,9 @@ url: "https://rguimaraens.github.io" # the base hostname & protocol for your sit
 twitter_username: _rguimaraens
 github_username:  rguimaraens
 
+timezone: America/Bahia
+encoding: utf-8
+
 # Build settings
 markdown: kramdown
 theme: minima
